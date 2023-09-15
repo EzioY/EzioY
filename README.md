@@ -1,3 +1,5 @@
+![](assets/Bottom_up.svg)
+
 <!---
 - 👋 Hi, I’m @EzioY
 - 👀 I’m interested in ...
@@ -45,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzioY"></img>
 
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <!--   grid-snake -->
 ![](https://github.com/EzioY/EzioY/blob/output/github-contribution-grid-snake.svg)
@@ -53,7 +55,18 @@ You can click the Preview link to take a look at your changes.
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=EzioY" width="auto"></img>
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EzioY/EzioY&type=Date)](https://star-history.com/#EzioY/EzioY&Date)
 
 
 
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
 
+![](https://count.getloli.com/get/@EzioY.github.readme)
+</br>
+
+
+
+![](assets/Bottom_down.svg)
